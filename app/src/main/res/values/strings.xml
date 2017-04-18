@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HackTime</string>
+    <string name="txt_wealth_generator">Wealth Generator</string>
+    <string name="txt_study">Study</string>
+    <string name="txt_exercise">Exercise</string>
+    <string name="txt_take_care_Of_mySelf">Take Care Of MySelf</string>
+    <string name="txt_responsibilities">Responsibilities</string>
+    <string name="txt_culture">Culture</string>
+    <string name="txt_time_to_relax">Time To Relax</string>
+</resources>
